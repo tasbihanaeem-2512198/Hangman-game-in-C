@@ -1,0 +1,8 @@
+computer
+elephant
+mountain
+language
+hospital
+football
+building
+umbrella

@@ -1,0 +1,10 @@
+cat
+dog
+sun
+bat
+pen
+hat
+box
+cup
+run
+map
